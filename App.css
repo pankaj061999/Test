@@ -1,0 +1,6 @@
+.card-con {
+  position: relative;
+  display: flex;
+  top: 45vh;
+  transform: translateY(-50%);
+}
